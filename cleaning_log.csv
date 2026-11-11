@@ -1,282 +1,282 @@
 id,action,reason
-tr-00013,FIXED,Fixed priority P1 -> P3
-tr-00018,FIXED,Fixed priority P1 -> P3
-tr-00020,FIXED,Mapped legacy prio -> priority; Normalized txn_date DD/MM/YYYY -> YYYY-MM-DD
-tr-00023,FIXED,Fixed priority P1 -> P3
-tr-00034,DROPPED,Empty or placeholder ticket
-tr-00045,FIXED,Fixed priority P3 -> P1
-tr-00049,FIXED,Mapped legacy prio -> priority
-tr-00058,FIXED,Mapped legacy prio -> priority; Normalized txn_date DD/MM/YYYY -> YYYY-MM-DD
-tr-00059,FIXED,Fixed priority P1 -> P3
-tr-00060,DROPPED,Invalid or truncated JSON
-tr-00071,FIXED,Normalized txn_id format
-tr-00072,FIXED,Mapped legacy prio -> priority
-tr-00073,FIXED,Converted rupees -> paise (x100)
-tr-00077,FIXED,Mapped legacy prio -> priority; Normalized txn_date DD/MM/YYYY -> YYYY-MM-DD
-tr-00095,DROPPED,Invalid or truncated JSON
-tr-00114,FIXED,Mapped legacy prio -> priority
-tr-00116,FIXED,Set needs_human -> true
-tr-00120,FIXED,Mapped legacy prio -> priority
-tr-00123,FIXED,Mapped legacy prio -> priority; Normalized txn_date DD/MM/YYYY -> YYYY-MM-DD
-tr-00125,DROPPED,Invalid or truncated JSON
-tr-00129,FIXED,Fixed priority P3 -> P2
-tr-00134,FIXED,Set needs_human -> true
-tr-00144,FIXED,Converted rupees -> paise (x100)
-tr-00146,FIXED,Fixed priority P1 -> P3
-tr-00147,FIXED,Normalized txn_id format
-tr-00151,FIXED,Normalized txn_id format
-tr-00153,FIXED,Mapped legacy prio -> priority; Normalized txn_date DD/MM/YYYY -> YYYY-MM-DD
-tr-00154,FIXED,Fixed priority P3 -> P2
-tr-00156,DROPPED,Duplicate ticket text
-tr-00160,FIXED,Mapped legacy prio -> priority; Normalized txn_date DD/MM/YYYY -> YYYY-MM-DD
-tr-00164,DROPPED,Empty or placeholder ticket
-tr-00167,FIXED,Converted rupees -> paise (x100)
-tr-00172,DROPPED,Invalid or truncated JSON
-tr-00178,FIXED,Mapped legacy prio -> priority
-tr-00184,FIXED,Fixed priority P3 -> P1
-tr-00187,FIXED,Fixed priority P1 -> P3
-tr-00192,FIXED,Mapped legacy prio -> priority
-tr-00199,FIXED,Converted rupees -> paise (x100)
-tr-00208,DROPPED,Duplicate ticket text
-tr-00211,DROPPED,Duplicate ticket text
-tr-00212,FIXED,Fixed priority P3 -> P1
-tr-00219,FIXED,Mapped legacy prio -> priority
-tr-00220,FIXED,Fixed priority P3 -> P2
-tr-00222,FIXED,Converted rupees -> paise (x100)
-tr-00223,FIXED,Mapped legacy prio -> priority
-tr-00225,FIXED,Fixed priority P1 -> P3
-tr-00226,DROPPED,Duplicate ticket text
-tr-00249,FIXED,Mapped legacy prio -> priority; Normalized txn_date DD/MM/YYYY -> YYYY-MM-DD
-tr-00258,FIXED,Mapped legacy prio -> priority
-tr-00263,FIXED,Mapped legacy prio -> priority; Normalized txn_date DD/MM/YYYY -> YYYY-MM-DD
-tr-00267,DROPPED,Invalid or truncated JSON
-tr-00294,FIXED,Fixed priority P3 -> P2
-tr-00297,DROPPED,Duplicate ticket text
-tr-00306,FIXED,Fixed priority P1 -> P3
-tr-00307,DROPPED,Duplicate ticket text
-tr-00309,FIXED,Fixed priority P1 -> P3
-tr-00312,FIXED,Fixed priority P1 -> P3
-tr-00318,DROPPED,Empty or placeholder ticket
-tr-00320,FIXED,Mapped legacy prio -> priority
-tr-00346,FIXED,Mapped legacy prio -> priority
-tr-00347,FIXED,Mapped legacy prio -> priority; Normalized txn_date DD/MM/YYYY -> YYYY-MM-DD
-tr-00349,DROPPED,Duplicate ticket text
-tr-00355,FIXED,Fixed priority P3 -> P2
-tr-00357,DROPPED,Invalid or truncated JSON
-tr-00364,DROPPED,Duplicate ticket text
-tr-00365,FIXED,Mapped legacy prio -> priority; Set needs_human -> true
-tr-00370,FIXED,Mapped legacy prio -> priority; Normalized txn_date DD/MM/YYYY -> YYYY-MM-DD
-tr-00373,DROPPED,Duplicate ticket text
-tr-00380,FIXED,Fixed priority P1 -> P3
-tr-00382,FIXED,Fixed priority P2 -> P3
-tr-00385,FIXED,Mapped legacy prio -> priority
-tr-00391,FIXED,Normalized txn_id format
-tr-00397,DROPPED,Duplicate ticket text
-tr-00407,FIXED,Converted rupees -> paise (x100)
-tr-00413,FIXED,Fixed priority P1 -> P3
-tr-00420,FIXED,Normalized txn_id format
-tr-00424,FIXED,Fixed priority P3 -> P1
-tr-00427,FIXED,Fixed priority P3 -> P1
-tr-00436,DROPPED,Duplicate ticket text
-tr-00452,FIXED,Fixed priority P1 -> P3
-tr-00454,DROPPED,Duplicate ticket text
-tr-00456,DROPPED,Duplicate ticket text
-tr-00457,FIXED,Mapped legacy prio -> priority
-tr-00460,FIXED,Normalized txn_id format
-tr-00461,FIXED,Mapped legacy prio -> priority
-tr-00470,FIXED,Normalized txn_id format
-tr-00473,DROPPED,Duplicate ticket text
-tr-00475,FIXED,Mapped legacy prio -> priority
-tr-00476,DROPPED,Duplicate ticket text
-tr-00478,DROPPED,Invalid or truncated JSON
-tr-00485,FIXED,Fixed priority P1 -> P3
-tr-00497,DROPPED,Invalid or truncated JSON
-tr-00502,DROPPED,Duplicate ticket text
-tr-00503,FIXED,Fixed priority P1 -> P3
-tr-00505,FIXED,Fixed priority P1 -> P3
-tr-00508,FIXED,Fixed priority P1 -> P3
-tr-00516,FIXED,Mapped legacy prio -> priority
-tr-00523,FIXED,Fixed priority P1 -> P3
-tr-00532,DROPPED,Duplicate ticket text
-tr-00533,FIXED,Fixed priority P1 -> P3
-tr-00534,DROPPED,Duplicate ticket text
-tr-00540,DROPPED,Duplicate ticket text
-tr-00546,DROPPED,Duplicate ticket text
-tr-00555,DROPPED,Empty or placeholder ticket
-tr-00556,FIXED,Mapped legacy prio -> priority; Normalized txn_date DD/MM/YYYY -> YYYY-MM-DD
-tr-00558,DROPPED,Invalid or truncated JSON
-tr-00567,FIXED,Fixed priority P3 -> P2
-tr-00570,FIXED,Normalized txn_id format
-tr-00573,DROPPED,Duplicate ticket text
-tr-00577,FIXED,Mapped legacy prio -> priority; Normalized txn_date DD/MM/YYYY -> YYYY-MM-DD
-tr-00581,DROPPED,Duplicate ticket text
-tr-00589,FIXED,Mapped legacy prio -> priority
-tr-00595,FIXED,Normalized txn_id format
-tr-00602,FIXED,Mapped legacy prio -> priority; Normalized txn_date DD/MM/YYYY -> YYYY-MM-DD
-tr-00605,DROPPED,Invalid or truncated JSON
-tr-00606,FIXED,Mapped legacy prio -> priority
-tr-00610,FIXED,Mapped legacy prio -> priority
-tr-00622,FIXED,Converted rupees -> paise (x100)
-tr-00628,FIXED,Mapped legacy prio -> priority; Normalized txn_date DD/MM/YYYY -> YYYY-MM-DD
-tr-00638,FIXED,Fixed priority P3 -> P1
-tr-00648,FIXED,Fixed priority P3 -> P2
-tr-00649,FIXED,Normalized txn_id format
-tr-00653,FIXED,Converted rupees -> paise (x100)
-tr-00656,FIXED,Mapped legacy prio -> priority; Normalized txn_date DD/MM/YYYY -> YYYY-MM-DD
-tr-00665,DROPPED,Duplicate ticket text
-tr-00670,FIXED,Mapped legacy prio -> priority; Normalized txn_date DD/MM/YYYY -> YYYY-MM-DD
-tr-00674,DROPPED,Invalid or truncated JSON
-tr-00677,FIXED,Mapped legacy prio -> priority; Normalized txn_date DD/MM/YYYY -> YYYY-MM-DD
-tr-00685,FIXED,Mapped legacy prio -> priority
-tr-00688,FIXED,Converted rupees -> paise (x100)
-tr-00689,FIXED,Fixed priority P1 -> P3
-tr-00691,FIXED,Converted rupees -> paise (x100)
-tr-00701,DROPPED,Duplicate ticket text
-tr-00704,FIXED,Mapped legacy prio -> priority; Normalized txn_date DD/MM/YYYY -> YYYY-MM-DD
-tr-00706,FIXED,Fixed priority P3 -> P2
-tr-00707,FIXED,Fixed priority P3 -> P2
-tr-00716,DROPPED,Duplicate ticket text
-tr-00717,FIXED,Fixed priority P1 -> P3
-tr-00727,FIXED,Fixed priority P2 -> P3; Set needs_human -> true
-tr-00735,DROPPED,Invalid or truncated JSON
-tr-00744,FIXED,Mapped legacy prio -> priority
-tr-00745,FIXED,Fixed priority P1 -> P3
-tr-00746,FIXED,Fixed priority P3 -> P2
-tr-00757,FIXED,Fixed priority P1 -> P3
-tr-00761,DROPPED,Duplicate ticket text
-tr-00765,DROPPED,Invalid or truncated JSON
-tr-00771,FIXED,Normalized txn_id format
-tr-00773,DROPPED,Duplicate ticket text
-tr-00778,FIXED,Mapped legacy prio -> priority
-tr-00782,FIXED,Fixed priority P1 -> P3
-tr-00783,DROPPED,Duplicate ticket text
-tr-00790,DROPPED,Empty or placeholder ticket
-tr-00791,FIXED,Mapped legacy prio -> priority; Normalized txn_date DD/MM/YYYY -> YYYY-MM-DD
-tr-00794,DROPPED,Empty or placeholder ticket
-tr-00800,DROPPED,Duplicate ticket text
-tr-00802,FIXED,Fixed priority P1 -> P3
-tr-00809,DROPPED,Invalid or truncated JSON
-tr-00811,DROPPED,Duplicate ticket text
-tr-00820,FIXED,Mapped legacy prio -> priority; Normalized txn_date DD/MM/YYYY -> YYYY-MM-DD
-tr-00824,DROPPED,Invalid or truncated JSON
-tr-00838,FIXED,Normalized txn_id format
-tr-00839,FIXED,Mapped legacy prio -> priority; Normalized txn_date DD/MM/YYYY -> YYYY-MM-DD
-tr-00843,DROPPED,Duplicate ticket text
-tr-00845,FIXED,Converted rupees -> paise (x100)
-tr-00846,DROPPED,Invalid or truncated JSON
-tr-00852,FIXED,Fixed priority P3 -> P1
-tr-00861,DROPPED,Duplicate ticket text
-tr-00870,DROPPED,Duplicate ticket text
-tr-00879,FIXED,Fixed priority P1 -> P3
-tr-00880,DROPPED,Duplicate ticket text
-tr-00888,FIXED,Normalized txn_id format
-tr-00890,FIXED,Fixed priority P3 -> P1
-tr-00899,FIXED,Normalized txn_id format
-tr-00908,FIXED,Normalized txn_id format
-tr-00913,DROPPED,Duplicate ticket text
-tr-00920,FIXED,Converted rupees -> paise (x100)
-tr-00922,FIXED,Mapped legacy prio -> priority
-tr-00932,FIXED,Fixed priority P3 -> P2
-tr-00933,FIXED,Fixed priority P1 -> P3
-tr-00936,DROPPED,Duplicate ticket text
-tr-00958,DROPPED,Invalid or truncated JSON
-tr-00960,DROPPED,Invalid or truncated JSON
-tr-00967,FIXED,Fixed priority P1 -> P3
-tr-00968,DROPPED,Duplicate ticket text
-tr-00975,DROPPED,Invalid or truncated JSON
-tr-00977,DROPPED,Duplicate ticket text
-tr-00978,DROPPED,Invalid or truncated JSON
-tr-00979,DROPPED,Invalid or truncated JSON
-tr-00980,DROPPED,Invalid or truncated JSON
-tr-00985,FIXED,Mapped legacy prio -> priority; Normalized txn_date DD/MM/YYYY -> YYYY-MM-DD
-tr-00986,FIXED,Converted rupees -> paise (x100)
-tr-00987,FIXED,Mapped legacy prio -> priority
-tr-01000,DROPPED,Duplicate ticket text
-tr-01006,FIXED,Mapped legacy prio -> priority
-tr-01011,DROPPED,Duplicate ticket text
-tr-01012,FIXED,Normalized txn_id format
-tr-01013,DROPPED,Duplicate ticket text
-tr-01017,FIXED,Fixed priority P3 -> P1
-tr-01019,FIXED,Fixed priority P3 -> P1
-tr-01023,FIXED,Fixed priority P3 -> P1
-tr-01028,FIXED,Mapped legacy prio -> priority
-tr-01030,DROPPED,Duplicate ticket text
-tr-01032,DROPPED,Empty or placeholder ticket
-tr-01033,DROPPED,Duplicate ticket text
-tr-01044,DROPPED,Duplicate ticket text
-tr-01046,FIXED,Mapped legacy prio -> priority; Normalized txn_date DD/MM/YYYY -> YYYY-MM-DD
-tr-01048,FIXED,Fixed priority P1 -> P3
-tr-01052,DROPPED,Duplicate ticket text
-tr-01067,DROPPED,Duplicate ticket text
-tr-01070,DROPPED,Invalid or truncated JSON
-tr-01083,FIXED,Mapped legacy prio -> priority
-tr-01085,DROPPED,Duplicate ticket text
-tr-01086,FIXED,Fixed priority P3 -> P1
-tr-01087,DROPPED,Invalid or truncated JSON
-tr-01089,FIXED,Mapped legacy prio -> priority
-tr-01093,DROPPED,Duplicate ticket text
-tr-01104,DROPPED,Duplicate ticket text
-tr-01108,DROPPED,Duplicate ticket text
-tr-01109,FIXED,Fixed priority P3 -> P2
-tr-01112,DROPPED,Duplicate ticket text
-tr-01115,FIXED,Mapped legacy prio -> priority
-tr-01131,FIXED,Fixed priority P3 -> P2
-tr-01133,FIXED,Mapped legacy prio -> priority; Normalized txn_date DD/MM/YYYY -> YYYY-MM-DD
-tr-01134,DROPPED,Duplicate ticket text
-tr-01135,DROPPED,Duplicate ticket text
-tr-01136,FIXED,Normalized txn_id format
-tr-01138,DROPPED,Duplicate ticket text
-tr-01139,DROPPED,Duplicate ticket text
-tr-01141,DROPPED,Duplicate ticket text
-tr-01143,FIXED,Mapped legacy prio -> priority; Normalized txn_date DD/MM/YYYY -> YYYY-MM-DD
-tr-01146,FIXED,Fixed priority P1 -> P3
-tr-01151,FIXED,Mapped legacy prio -> priority
-tr-01158,FIXED,Mapped legacy prio -> priority; Normalized txn_date DD/MM/YYYY -> YYYY-MM-DD
-tr-01166,DROPPED,Empty or placeholder ticket
-tr-01176,DROPPED,Duplicate ticket text
-tr-01178,FIXED,Mapped legacy prio -> priority; Normalized txn_date DD/MM/YYYY -> YYYY-MM-DD
-tr-01183,DROPPED,Duplicate ticket text
-tr-01188,FIXED,Normalized txn_id format
-tr-01199,DROPPED,Invalid or truncated JSON
-tr-01202,FIXED,Mapped legacy prio -> priority
-tr-01204,DROPPED,Duplicate ticket text
-tr-01222,FIXED,Fixed priority P1 -> P3
-tr-01238,FIXED,Normalized txn_id format
-tr-01239,DROPPED,Duplicate ticket text
-tr-01241,DROPPED,Duplicate ticket text
-tr-01246,DROPPED,Duplicate ticket text
-tr-01248,DROPPED,Duplicate ticket text
-tr-01250,DROPPED,Duplicate ticket text
-tr-01260,DROPPED,Duplicate ticket text
-tr-01273,DROPPED,Duplicate ticket text
-tr-01274,FIXED,Mapped legacy prio -> priority; Normalized txn_date DD/MM/YYYY -> YYYY-MM-DD
-tr-01275,DROPPED,Duplicate ticket text
-tr-01286,FIXED,Mapped legacy prio -> priority
-tr-01301,FIXED,Mapped legacy prio -> priority
-tr-01304,DROPPED,Empty or placeholder ticket
-tr-01305,FIXED,Fixed priority P3 -> P2
-tr-01314,DROPPED,Empty or placeholder ticket
-tr-01319,FIXED,Fixed priority P3 -> P1
-tr-01326,FIXED,Mapped legacy prio -> priority
-tr-01331,FIXED,Mapped legacy prio -> priority
-tr-01338,DROPPED,Duplicate ticket text
-tr-01343,FIXED,Mapped legacy prio -> priority; Normalized txn_date DD/MM/YYYY -> YYYY-MM-DD
-tr-01359,FIXED,Mapped legacy prio -> priority
-tr-01363,FIXED,Normalized txn_id format
-tr-01366,FIXED,Mapped legacy prio -> priority; Normalized txn_date DD/MM/YYYY -> YYYY-MM-DD
-tr-01370,FIXED,Fixed priority P3 -> P1
-tr-01375,FIXED,Fixed priority P2 -> P3
-tr-01381,DROPPED,Duplicate ticket text
-tr-01386,FIXED,Mapped legacy prio -> priority
-tr-01393,DROPPED,Duplicate ticket text
-tr-01398,DROPPED,Duplicate ticket text
-tr-01399,DROPPED,Duplicate ticket text
-tr-01403,FIXED,Fixed priority P3 -> P1
-tr-01407,FIXED,Fixed priority P1 -> P3
-tr-01409,DROPPED,Duplicate ticket text
-tr-01413,FIXED,Mapped legacy prio -> priority
-tr-01419,DROPPED,Duplicate ticket text
-tr-01427,DROPPED,Duplicate ticket text
-tr-01433,DROPPED,Duplicate ticket text
-tr-01441,FIXED,Mapped legacy prio -> priority
-tr-01443,DROPPED,Duplicate ticket text
+tr-00013,fix,Fixed priority P1 -> P3
+tr-00018,fix,Fixed priority P1 -> P3
+tr-00020,fix,Mapped legacy prio -> priority; Normalized txn_date DD/MM/YYYY -> YYYY-MM-DD
+tr-00023,fix,Fixed priority P1 -> P3
+tr-00034,drop,Empty or placeholder ticket
+tr-00045,fix,Fixed priority P3 -> P1
+tr-00049,fix,Mapped legacy prio -> priority
+tr-00058,fix,Mapped legacy prio -> priority; Normalized txn_date DD/MM/YYYY -> YYYY-MM-DD
+tr-00059,fix,Fixed priority P1 -> P3
+tr-00060,drop,Invalid or truncated JSON
+tr-00071,fix,Normalized txn_id format
+tr-00072,fix,Mapped legacy prio -> priority
+tr-00073,fix,Converted rupees -> paise (x100)
+tr-00077,fix,Mapped legacy prio -> priority; Normalized txn_date DD/MM/YYYY -> YYYY-MM-DD
+tr-00095,drop,Invalid or truncated JSON
+tr-00114,fix,Mapped legacy prio -> priority
+tr-00116,fix,Set needs_human -> true
+tr-00120,fix,Mapped legacy prio -> priority
+tr-00123,fix,Mapped legacy prio -> priority; Normalized txn_date DD/MM/YYYY -> YYYY-MM-DD
+tr-00125,drop,Invalid or truncated JSON
+tr-00129,fix,Fixed priority P3 -> P2
+tr-00134,fix,Set needs_human -> true
+tr-00144,fix,Converted rupees -> paise (x100)
+tr-00146,fix,Fixed priority P1 -> P3
+tr-00147,fix,Normalized txn_id format
+tr-00151,fix,Normalized txn_id format
+tr-00153,fix,Mapped legacy prio -> priority; Normalized txn_date DD/MM/YYYY -> YYYY-MM-DD
+tr-00154,fix,Fixed priority P3 -> P2
+tr-00156,drop,Duplicate ticket text
+tr-00160,fix,Mapped legacy prio -> priority; Normalized txn_date DD/MM/YYYY -> YYYY-MM-DD
+tr-00164,drop,Empty or placeholder ticket
+tr-00167,fix,Converted rupees -> paise (x100)
+tr-00172,drop,Invalid or truncated JSON
+tr-00178,fix,Mapped legacy prio -> priority
+tr-00184,fix,Fixed priority P3 -> P1
+tr-00187,fix,Fixed priority P1 -> P3
+tr-00192,fix,Mapped legacy prio -> priority
+tr-00199,fix,Converted rupees -> paise (x100)
+tr-00208,drop,Duplicate ticket text
+tr-00211,drop,Duplicate ticket text
+tr-00212,fix,Fixed priority P3 -> P1
+tr-00219,fix,Mapped legacy prio -> priority
+tr-00220,fix,Fixed priority P3 -> P2
+tr-00222,fix,Converted rupees -> paise (x100)
+tr-00223,fix,Mapped legacy prio -> priority
+tr-00225,fix,Fixed priority P1 -> P3
+tr-00226,drop,Duplicate ticket text
+tr-00249,fix,Mapped legacy prio -> priority; Normalized txn_date DD/MM/YYYY -> YYYY-MM-DD
+tr-00258,fix,Mapped legacy prio -> priority
+tr-00263,fix,Mapped legacy prio -> priority; Normalized txn_date DD/MM/YYYY -> YYYY-MM-DD
+tr-00267,drop,Invalid or truncated JSON
+tr-00294,fix,Fixed priority P3 -> P2
+tr-00297,drop,Duplicate ticket text
+tr-00306,fix,Fixed priority P1 -> P3
+tr-00307,drop,Duplicate ticket text
+tr-00309,fix,Fixed priority P1 -> P3
+tr-00312,fix,Fixed priority P1 -> P3
+tr-00318,drop,Empty or placeholder ticket
+tr-00320,fix,Mapped legacy prio -> priority
+tr-00346,fix,Mapped legacy prio -> priority
+tr-00347,fix,Mapped legacy prio -> priority; Normalized txn_date DD/MM/YYYY -> YYYY-MM-DD
+tr-00349,drop,Duplicate ticket text
+tr-00355,fix,Fixed priority P3 -> P2
+tr-00357,drop,Invalid or truncated JSON
+tr-00364,drop,Duplicate ticket text
+tr-00365,fix,Mapped legacy prio -> priority; Set needs_human -> true
+tr-00370,fix,Mapped legacy prio -> priority; Normalized txn_date DD/MM/YYYY -> YYYY-MM-DD
+tr-00373,drop,Duplicate ticket text
+tr-00380,fix,Fixed priority P1 -> P3
+tr-00382,fix,Fixed priority P2 -> P3
+tr-00385,fix,Mapped legacy prio -> priority
+tr-00391,fix,Normalized txn_id format
+tr-00397,drop,Duplicate ticket text
+tr-00407,fix,Converted rupees -> paise (x100)
+tr-00413,fix,Fixed priority P1 -> P3
+tr-00420,fix,Normalized txn_id format
+tr-00424,fix,Fixed priority P3 -> P1
+tr-00427,fix,Fixed priority P3 -> P1
+tr-00436,drop,Duplicate ticket text
+tr-00452,fix,Fixed priority P1 -> P3
+tr-00454,drop,Duplicate ticket text
+tr-00456,drop,Duplicate ticket text
+tr-00457,fix,Mapped legacy prio -> priority
+tr-00460,fix,Normalized txn_id format
+tr-00461,fix,Mapped legacy prio -> priority
+tr-00470,fix,Normalized txn_id format
+tr-00473,drop,Duplicate ticket text
+tr-00475,fix,Mapped legacy prio -> priority
+tr-00476,drop,Duplicate ticket text
+tr-00478,drop,Invalid or truncated JSON
+tr-00485,fix,Fixed priority P1 -> P3
+tr-00497,drop,Invalid or truncated JSON
+tr-00502,drop,Duplicate ticket text
+tr-00503,fix,Fixed priority P1 -> P3
+tr-00505,fix,Fixed priority P1 -> P3
+tr-00508,fix,Fixed priority P1 -> P3
+tr-00516,fix,Mapped legacy prio -> priority
+tr-00523,fix,Fixed priority P1 -> P3
+tr-00532,drop,Duplicate ticket text
+tr-00533,fix,Fixed priority P1 -> P3
+tr-00534,drop,Duplicate ticket text
+tr-00540,drop,Duplicate ticket text
+tr-00546,drop,Duplicate ticket text
+tr-00555,drop,Empty or placeholder ticket
+tr-00556,fix,Mapped legacy prio -> priority; Normalized txn_date DD/MM/YYYY -> YYYY-MM-DD
+tr-00558,drop,Invalid or truncated JSON
+tr-00567,fix,Fixed priority P3 -> P2
+tr-00570,fix,Normalized txn_id format
+tr-00573,drop,Duplicate ticket text
+tr-00577,fix,Mapped legacy prio -> priority; Normalized txn_date DD/MM/YYYY -> YYYY-MM-DD
+tr-00581,drop,Duplicate ticket text
+tr-00589,fix,Mapped legacy prio -> priority
+tr-00595,fix,Normalized txn_id format
+tr-00602,fix,Mapped legacy prio -> priority; Normalized txn_date DD/MM/YYYY -> YYYY-MM-DD
+tr-00605,drop,Invalid or truncated JSON
+tr-00606,fix,Mapped legacy prio -> priority
+tr-00610,fix,Mapped legacy prio -> priority
+tr-00622,fix,Converted rupees -> paise (x100)
+tr-00628,fix,Mapped legacy prio -> priority; Normalized txn_date DD/MM/YYYY -> YYYY-MM-DD
+tr-00638,fix,Fixed priority P3 -> P1
+tr-00648,fix,Fixed priority P3 -> P2
+tr-00649,fix,Normalized txn_id format
+tr-00653,fix,Converted rupees -> paise (x100)
+tr-00656,fix,Mapped legacy prio -> priority; Normalized txn_date DD/MM/YYYY -> YYYY-MM-DD
+tr-00665,drop,Duplicate ticket text
+tr-00670,fix,Mapped legacy prio -> priority; Normalized txn_date DD/MM/YYYY -> YYYY-MM-DD
+tr-00674,drop,Invalid or truncated JSON
+tr-00677,fix,Mapped legacy prio -> priority; Normalized txn_date DD/MM/YYYY -> YYYY-MM-DD
+tr-00685,fix,Mapped legacy prio -> priority
+tr-00688,fix,Converted rupees -> paise (x100)
+tr-00689,fix,Fixed priority P1 -> P3
+tr-00691,fix,Converted rupees -> paise (x100)
+tr-00701,drop,Duplicate ticket text
+tr-00704,fix,Mapped legacy prio -> priority; Normalized txn_date DD/MM/YYYY -> YYYY-MM-DD
+tr-00706,fix,Fixed priority P3 -> P2
+tr-00707,fix,Fixed priority P3 -> P2
+tr-00716,drop,Duplicate ticket text
+tr-00717,fix,Fixed priority P1 -> P3
+tr-00727,fix,Fixed priority P2 -> P3; Set needs_human -> true
+tr-00735,drop,Invalid or truncated JSON
+tr-00744,fix,Mapped legacy prio -> priority
+tr-00745,fix,Fixed priority P1 -> P3
+tr-00746,fix,Fixed priority P3 -> P2
+tr-00757,fix,Fixed priority P1 -> P3
+tr-00761,drop,Duplicate ticket text
+tr-00765,drop,Invalid or truncated JSON
+tr-00771,fix,Normalized txn_id format
+tr-00773,drop,Duplicate ticket text
+tr-00778,fix,Mapped legacy prio -> priority
+tr-00782,fix,Fixed priority P1 -> P3
+tr-00783,drop,Duplicate ticket text
+tr-00790,drop,Empty or placeholder ticket
+tr-00791,fix,Mapped legacy prio -> priority; Normalized txn_date DD/MM/YYYY -> YYYY-MM-DD
+tr-00794,drop,Empty or placeholder ticket
+tr-00800,drop,Duplicate ticket text
+tr-00802,fix,Fixed priority P1 -> P3
+tr-00809,drop,Invalid or truncated JSON
+tr-00811,drop,Duplicate ticket text
+tr-00820,fix,Mapped legacy prio -> priority; Normalized txn_date DD/MM/YYYY -> YYYY-MM-DD
+tr-00824,drop,Invalid or truncated JSON
+tr-00838,fix,Normalized txn_id format
+tr-00839,fix,Mapped legacy prio -> priority; Normalized txn_date DD/MM/YYYY -> YYYY-MM-DD
+tr-00843,drop,Duplicate ticket text
+tr-00845,fix,Converted rupees -> paise (x100)
+tr-00846,drop,Invalid or truncated JSON
+tr-00852,fix,Fixed priority P3 -> P1
+tr-00861,drop,Duplicate ticket text
+tr-00870,drop,Duplicate ticket text
+tr-00879,fix,Fixed priority P1 -> P3
+tr-00880,drop,Duplicate ticket text
+tr-00888,fix,Normalized txn_id format
+tr-00890,fix,Fixed priority P3 -> P1
+tr-00899,fix,Normalized txn_id format
+tr-00908,fix,Normalized txn_id format
+tr-00913,drop,Duplicate ticket text
+tr-00920,fix,Converted rupees -> paise (x100)
+tr-00922,fix,Mapped legacy prio -> priority
+tr-00932,fix,Fixed priority P3 -> P2
+tr-00933,fix,Fixed priority P1 -> P3
+tr-00936,drop,Duplicate ticket text
+tr-00958,drop,Invalid or truncated JSON
+tr-00960,drop,Invalid or truncated JSON
+tr-00967,fix,Fixed priority P1 -> P3
+tr-00968,drop,Duplicate ticket text
+tr-00975,drop,Invalid or truncated JSON
+tr-00977,drop,Duplicate ticket text
+tr-00978,drop,Invalid or truncated JSON
+tr-00979,drop,Invalid or truncated JSON
+tr-00980,drop,Invalid or truncated JSON
+tr-00985,fix,Mapped legacy prio -> priority; Normalized txn_date DD/MM/YYYY -> YYYY-MM-DD
+tr-00986,fix,Converted rupees -> paise (x100)
+tr-00987,fix,Mapped legacy prio -> priority
+tr-01000,drop,Duplicate ticket text
+tr-01006,fix,Mapped legacy prio -> priority
+tr-01011,drop,Duplicate ticket text
+tr-01012,fix,Normalized txn_id format
+tr-01013,drop,Duplicate ticket text
+tr-01017,fix,Fixed priority P3 -> P1
+tr-01019,fix,Fixed priority P3 -> P1
+tr-01023,fix,Fixed priority P3 -> P1
+tr-01028,fix,Mapped legacy prio -> priority
+tr-01030,drop,Duplicate ticket text
+tr-01032,drop,Empty or placeholder ticket
+tr-01033,drop,Duplicate ticket text
+tr-01044,drop,Duplicate ticket text
+tr-01046,fix,Mapped legacy prio -> priority; Normalized txn_date DD/MM/YYYY -> YYYY-MM-DD
+tr-01048,fix,Fixed priority P1 -> P3
+tr-01052,drop,Duplicate ticket text
+tr-01067,drop,Duplicate ticket text
+tr-01070,drop,Invalid or truncated JSON
+tr-01083,fix,Mapped legacy prio -> priority
+tr-01085,drop,Duplicate ticket text
+tr-01086,fix,Fixed priority P3 -> P1
+tr-01087,drop,Invalid or truncated JSON
+tr-01089,fix,Mapped legacy prio -> priority
+tr-01093,drop,Duplicate ticket text
+tr-01104,drop,Duplicate ticket text
+tr-01108,drop,Duplicate ticket text
+tr-01109,fix,Fixed priority P3 -> P2
+tr-01112,drop,Duplicate ticket text
+tr-01115,fix,Mapped legacy prio -> priority
+tr-01131,fix,Fixed priority P3 -> P2
+tr-01133,fix,Mapped legacy prio -> priority; Normalized txn_date DD/MM/YYYY -> YYYY-MM-DD
+tr-01134,drop,Duplicate ticket text
+tr-01135,drop,Duplicate ticket text
+tr-01136,fix,Normalized txn_id format
+tr-01138,drop,Duplicate ticket text
+tr-01139,drop,Duplicate ticket text
+tr-01141,drop,Duplicate ticket text
+tr-01143,fix,Mapped legacy prio -> priority; Normalized txn_date DD/MM/YYYY -> YYYY-MM-DD
+tr-01146,fix,Fixed priority P1 -> P3
+tr-01151,fix,Mapped legacy prio -> priority
+tr-01158,fix,Mapped legacy prio -> priority; Normalized txn_date DD/MM/YYYY -> YYYY-MM-DD
+tr-01166,drop,Empty or placeholder ticket
+tr-01176,drop,Duplicate ticket text
+tr-01178,fix,Mapped legacy prio -> priority; Normalized txn_date DD/MM/YYYY -> YYYY-MM-DD
+tr-01183,drop,Duplicate ticket text
+tr-01188,fix,Normalized txn_id format
+tr-01199,drop,Invalid or truncated JSON
+tr-01202,fix,Mapped legacy prio -> priority
+tr-01204,drop,Duplicate ticket text
+tr-01222,fix,Fixed priority P1 -> P3
+tr-01238,fix,Normalized txn_id format
+tr-01239,drop,Duplicate ticket text
+tr-01241,drop,Duplicate ticket text
+tr-01246,drop,Duplicate ticket text
+tr-01248,drop,Duplicate ticket text
+tr-01250,drop,Duplicate ticket text
+tr-01260,drop,Duplicate ticket text
+tr-01273,drop,Duplicate ticket text
+tr-01274,fix,Mapped legacy prio -> priority; Normalized txn_date DD/MM/YYYY -> YYYY-MM-DD
+tr-01275,drop,Duplicate ticket text
+tr-01286,fix,Mapped legacy prio -> priority
+tr-01301,fix,Mapped legacy prio -> priority
+tr-01304,drop,Empty or placeholder ticket
+tr-01305,fix,Fixed priority P3 -> P2
+tr-01314,drop,Empty or placeholder ticket
+tr-01319,fix,Fixed priority P3 -> P1
+tr-01326,fix,Mapped legacy prio -> priority
+tr-01331,fix,Mapped legacy prio -> priority
+tr-01338,drop,Duplicate ticket text
+tr-01343,fix,Mapped legacy prio -> priority; Normalized txn_date DD/MM/YYYY -> YYYY-MM-DD
+tr-01359,fix,Mapped legacy prio -> priority
+tr-01363,fix,Normalized txn_id format
+tr-01366,fix,Mapped legacy prio -> priority; Normalized txn_date DD/MM/YYYY -> YYYY-MM-DD
+tr-01370,fix,Fixed priority P3 -> P1
+tr-01375,fix,Fixed priority P2 -> P3
+tr-01381,drop,Duplicate ticket text
+tr-01386,fix,Mapped legacy prio -> priority
+tr-01393,drop,Duplicate ticket text
+tr-01398,drop,Duplicate ticket text
+tr-01399,drop,Duplicate ticket text
+tr-01403,fix,Fixed priority P3 -> P1
+tr-01407,fix,Fixed priority P1 -> P3
+tr-01409,drop,Duplicate ticket text
+tr-01413,fix,Mapped legacy prio -> priority
+tr-01419,drop,Duplicate ticket text
+tr-01427,drop,Duplicate ticket text
+tr-01433,drop,Duplicate ticket text
+tr-01441,fix,Mapped legacy prio -> priority
+tr-01443,drop,Duplicate ticket text
